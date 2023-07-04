@@ -1,7 +1,7 @@
 # My Setups
 - [Terminal](#terminal)
-- [Windows (WSL)](#windows-wsl)
-- [Mac](#mac)
+    - [Windows (WSL)](#windows-wsl)
+    - [Mac](#mac)
 
 ## Terminal
 
